@@ -1,0 +1,2 @@
+smarthouse.uc.motionsensor
+==========================
